@@ -11,12 +11,7 @@ Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Known issues and limitations](#known-issues-and-limitations)
-* [Getting help](#getting-help)
-* [Contributing](#contributing)
-* [License](#license)
 * [Authors and history](#authors-and-history)
-* [Acknowledgments](#authors-and-acknowledgments)
-
 
 Introduction
 ------------
