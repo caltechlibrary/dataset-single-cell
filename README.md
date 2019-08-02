@@ -20,7 +20,7 @@ Introduction
 Installation
 ------------
 
-Download the zip from GitHub using the green button. You need to have Python 3 on your machine
+Clone this repo or fownload the zip from GitHub using the green button. You need to have Python 3 on your machine
 ([Miniconda](https://docs.conda.io/en/latest/miniconda.html) is a great installation option). 
 
 Install the dataset dependency by typing `pip install py_dataset`
