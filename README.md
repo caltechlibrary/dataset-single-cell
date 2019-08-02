@@ -39,15 +39,15 @@ for most platforms (including Raspbian).
 Usage
 -----
 
-Type `python dataset-single-cell.py`.  This will read metadata from a google
+Type `python dataset-single-cell.py`.  This will read metadata from the google
 sheet, build a collection, run through mock data processing, and demonstrate
-returning a subset of results with two approaches.
+two approaches for returning a subset of results.
 
 
 Known issues and limitations
 ----------------------------
 
-Should parse multi-value fields from spreadsheet into arrays.
+Should split multi-value fields from spreadsheet into arrays.
 
 Are there better ways of getting the kallisto files for downstream analysis
 (such as file streams from within the collection)?
