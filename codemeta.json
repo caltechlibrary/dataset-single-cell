@@ -1,27 +1,27 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "HowTo",
-  "description": "Example README file demonstrating a suggested README file structure for software projects",
-  "name": "READMINE",
-  "codeRepository": "https://github.com/mhucka/readmine",
-  "issueTracker": "https://github.com/mhucka/readmine/issues",
-  "license": "https://github.com/mhucka/readmine/blob/master/LICENSE",
-  "version": "1.0.2",
+  "@type": "SoftwareSourceCode",
+  "description": "Store single cell data in dataset collection",
+  "name": "Dataset-Single-Cell",
+  "codeRepository": "https://github.com/caltechlibrary/dataset-single-cell",
+  "issueTracker": "https://github.com/caltechlibrary/dataset-single-cell/issues",
+  "license": "https://github.com/caltechlibrary/dataset-single-cell/blob/master/LICENSE",
+  "version": "0.0.1",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Michael",
-      "familyName": "Hucka",
+      "givenName": "Thomas",
+      "familyName": "Morrell",
       "affiliation": "Caltech Library",
-      "email": "mhucka@caltech.edu",
-      "@id": "https://orcid.org/0000-0001-9105-5960"
+      "@id": "https://orcid.org/0000-0001-9266-5146"
     }],
   "developmentStatus": "active",
-  "downloadUrl": "https://github.com/mhucka/readmine/archive/1.0.2.zip",
+  "downloadUrl":"https://github.com/caltechlibrary/dataset-single-cell/archive/0.0.1.zip",
   "keywords": [
-    "README",
-    "templates",
-    "documentation"
+    "dataset",
+    "metadata",
+    "storage",
+    "single cell"
   ],
-  "maintainer": "https://orcid.org/0000-0001-9105-5960",
+  "maintainer": "https://orcid.org/0000-0001-9226-5146",
 }

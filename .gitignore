@@ -57,3 +57,5 @@ TAGS
 
 # Project-specific things to ignore:
 # .............................................................................
+credentials.json
+token.json
